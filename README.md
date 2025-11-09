@@ -14,5 +14,6 @@ The aim of this project “Smart Energy Consumption Meter using IoT” is to des
 3.	Blynk & ESP32 Libraries
    
 #Communication and Networking Technologies 
+
 •	Wi-Fi (IEEE 802.11)
 •	IoT Communication Protocol
